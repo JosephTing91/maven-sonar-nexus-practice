@@ -83,7 +83,7 @@ under the License.
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sonar.host.url>http://44.203.251.188:9000</sonar.host.url>
+        <sonar.host.url>http://54.164.49.172 :9000</sonar.host.url>
       </properties>
     </profile>
     <!--End SonarQube/Sonar Profile-->
